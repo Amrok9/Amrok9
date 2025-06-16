@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amrkhaled.gm@gmail.com**
 
-- ⚡ Fun fact **Besides working with data, I’m an avid gamer**
+- ⚡ Fun fact **Besides working with data, I’m Love watching movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
