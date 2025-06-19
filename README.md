@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate ML Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" 
-
+src="https://camo.githubusercontent.com/03563005b9a1a4b27ecd17a81530f43316f3995b96faace09469eb823736d045/68747470733a2f2f7777772e69726f6964746563686e6f6c6f676965732e636f6d2f7374617469632f686f6d652f696d616765732f6f65775f72727962622e676966">
 
 - 🔭 I’m currently working on **AI projects**
 
